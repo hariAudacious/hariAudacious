@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React,Js,HTML,CSS**
 
-- 📫 How to reach me **hariom.sharma@audacioustechnologies.com**
+- 📫 How to reach me **hariom.sharma@techiegent.com**
 
 - ⚡ Fun fact **I Think I am funny**
 
